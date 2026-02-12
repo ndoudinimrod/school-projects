@@ -2,15 +2,17 @@
 <!--- 
 - 👀 I’m interested in ... 
 ---> 
-- 🌱 I’m Engeener graduated in ESIEA Paris specialized in cyberecurityin ESIEA (BAC+5)
-- 💞️ I collaborated on Audit IT or Cyberecurity problematics...
+- 🌱 I’m Engeener graduated in ESIEA Paris specialized in Cyberecurity / IT Audit (BAC+5).
+- 💞️ I collaborated on Audit IT or Cyberecurity problematics for big company.
 
-As you can see on my [Linknd](https://www.linkedin.com/in/nimrod-ndoudi), I realize some projects in differents sectors in my life.
-Here, you can find much of my IT projects.
+As you can see on my [LinkedIn](https://www.linkedin.com/in/nimrod-ndoudi), I realize some projects in differents sectors in my life.
+Here, you can find much of my IT projects and much on me and my experience in my [portofolio](https://ndoudinimrod.github.io/).
 Don't hesitate to contact me if you want more information about them.
 - 📫 How to reach me ? 
 
-  - Linknd: 
+  - Portofolio: 
+https://ndoudinimrod.github.io/
+  - LinkedId: 
 www.linkedin.com/in/nimrod-ndoudi
   - Instagram: 
 https://www.instagram.com/nimrod_971/
