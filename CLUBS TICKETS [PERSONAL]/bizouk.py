@@ -19,6 +19,12 @@ un_samedi = datetime.datetime(2022, 6, 25)
 un_samedi_format = un_samedi.strftime('%A')
 # print(un_samedi_format)
 
+#CREDENTALS WEBSITE
+print("Veuillez entrer votre email de connexion ")
+mail_user= input()
+print("Veuillez entrer votre password de connexion ")
+password_user= input()
+
 if "Friday" != un_vendredi_format:
     fin = "It's not friday !!! STOP ALL"
     print(fin)
@@ -65,11 +71,11 @@ driver = webdriver.Chrome()
 driver.get("https://www.bizouk.com/login/log-in")
 
 email = driver.find_element(By.ID, "email")
-email.send_keys("nimrodndoudi@gmail.com")
+email.send_keys(email_user)
 email.submit()
 
 email = driver.find_element(By.ID, "password")
-email.send_keys("Nimrodsteve7")
+email.send_keys(password_user)
 email.submit()
 
 #  CHOIX DE SOIREE
@@ -118,19 +124,19 @@ for element in lieu_soiree:
             nbr_person = driver.find_elements(By.CLASS_NAME, 'panel.panel-primary.bzk-panel-primary')
             for person in nbr_person:
                 nom_du_porteur = driver.find_element(By.ID, "last_name_6002214")
-                nom_du_porteur.send_keys("NDOUDI")
+                nom_du_porteur.send_keys("NAME")
 
                 prenom_du_porteur = driver.find_element(By.ID, "first_name_6002214")
-                prenom_du_porteur.send_keys("Nimrod")
+                prenom_du_porteur.send_keys("SURNAME")
 
                 nom_prenom = driver.find_element(By.ID, "answers_13666_1")
-                nom_prenom.send_keys("nimrodndoudi@gmail.com")
+                nom_prenom.send_keys(mail_user)
 
                 email_ticket = driver.find_element(By.ID, "answers_13667_1")
-                email_ticket.send_keys("nimrodndoudi@gmail.com")
+                email_ticket.send_keys(mail_user)
 
                 telephone = driver.find_element(By.ID, "answers_13668_1")
-                telephone.send_keys("0782576397")
+                telephone.send_keys("0702050607")
 """
 driver.execute_script("window.open('');")
 driver.switch_to.window(driver.window_handles[1])
