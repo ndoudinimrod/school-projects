@@ -41,4 +41,4 @@ Démontrer la capacité à créer des **solutions technologiques pour la gestion
 
 ## 👤 Auteur
 
-**Nimrod NDOUDI** — [LinkedIn](https://www.linkedin.com/in/nimrod-ndoudi) · [Portfolio](https://ndoudinimrod.github.io/)· \[Email](nimrodndoudi@gmail.com)
+**Nimrod NDOUDI** — [LinkedIn](https://www.linkedin.com/in/nimrod-ndoudi) · [Portfolio](https://ndoudinimrod.github.io/)
