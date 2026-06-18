@@ -17,7 +17,6 @@ www.linkedin.com/in/nimrod-ndoudi
   - Instagram: 
 https://www.instagram.com/nimrod_971/
   - Contact: 
-📧 ndoudi@et.esiea.fr
 📧 nimrodndoudi@gmail.com
 <!---
 Nimrod971/Nimrod971 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

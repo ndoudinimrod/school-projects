@@ -1,20 +1,116 @@
-[DEVELOPPEMENT DU SITE WEB PST PFH]
+\# 🏫 Inclusive Engineering Days — Site Web PST/PFH
 
-🏫🏫Bienvenue dans le readme du site inclusiveengineeringdays 🏫🏫
 
-Une interface de site WEB (HTML, CSS, ) permettant à tout visiteur ( parents, entreprises,étudiant(e)s, professeur(e)s,enseignant(e)s...) de pouvoir visualiser les différents P.S.T ( Projet Scientifque et Technique) et P.F.H ( PROJET DE FORMATION HUMAINE ) de l'année 2020-2021.
 
-Un groupe d'étudiants et moi-même (une dizaine d'étudiants) avions une dizaine de jours afin de pouvoir confectionner ce site web et le mettre en ligne en respectant différents consignes techniques et esthétiques du commanditaire (l'administation) pouvant évoluer au fur du temps. En tant que chef de projet, j'ai alors décidé que nous confectionnerions le site en php en utilsant une base de données SQL(images de projets, gestions des projets par pages, par promo,par équipe...) ce qui nous a permis de gagner du temps. Puis une fois que chaque page étant confirmé et validé nous inspections le code source de chaque page afinde pouvoir la récupérer en HTML d'un simple CTRL-C CTRL-V.
+> Interface web vitrine des Projets Scientifiques \& Techniques (PST) et Projets de Formation Humaine (PFH) — ESIEA 2020-2021
 
-Nous vous remercions des retours et commentaires que vous pouvez nous apporter.
 
-Vous pouvez télécharger le dossier et vous apercevoir du résultat en base local ou visionner le site mise en ligne à partir du lien ci dessous.
-(PS: il sera sans doute modifié ou supprimé après 1 an ou 2 ans...)
 
-⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️⬇️
+\---
 
-https://www.inclusiveengineeringdays.esiea.fr/
 
-⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️⬆️
 
-Copyright © by NDOUDI Nimrod ✌️✌️
+\## 🇬🇧 Overview
+
+
+
+A \*\*team web project\*\* (10 students, 10 days) to design and deploy a website showcasing all PST and PFH student projects of the year 2020-2021 at ESIEA Paris.  
+
+As \*\*project manager\*\*, I led the technical choices and coordinated the team to meet the client's (administration) requirements.
+
+
+
+\## 🇫🇷 Description
+
+
+
+Développement d'un \*\*site web vitrine\*\* permettant à tout visiteur (parents, entreprises, étudiants, professeurs...) de visualiser les différents PST et PFH de l'année 2020-2021 de l'ESIEA.  
+
+En tant que \*\*chef de projet\*\*, j'ai piloté les choix techniques et coordonné une équipe d'une dizaine d'étudiants en 10 jours.
+
+
+
+\---
+
+
+
+\## ⚙️ Architecture technique
+
+
+
+\- Développement initial en \*\*PHP + SQL\*\* (gestion dynamique des projets, des pages, des promos, des équipes)
+
+\- Export final en \*\*HTML statique\*\* (CTRL+C/CTRL+V du code source validé) pour mise en ligne légère
+
+\- Base de données SQL : images, projets, pages, équipes
+
+
+
+\---
+
+
+
+\## 🛠️ Stack technique
+
+
+
+!\[HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat\&logo=html5\&logoColor=white)
+
+!\[CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat\&logo=css3\&logoColor=white)
+
+!\[PHP](https://img.shields.io/badge/PHP-777BB4?style=flat\&logo=php\&logoColor=white)
+
+!\[SQL](https://img.shields.io/badge/SQL-Database-orange?style=flat)
+
+
+
+\---
+
+
+
+\## 👥 Rôle
+
+
+
+| Rôle | Détail |
+
+|------|--------|
+
+| 🎯 Chef de projet | Coordination de \~10 étudiants |
+
+| 🏗️ Architecte technique | Choix PHP + SQL → export HTML |
+
+| 🚀 Mise en ligne | Déploiement du site final |
+
+
+
+\---
+
+
+
+\## 🌐 Site en ligne
+
+
+
+> \[inclusiveengineeringdays.esiea.fr](https://www.inclusiveengineeringdays.esiea.fr/)  
+
+> \*(Peut être modifié ou supprimé après quelques années)\*
+
+
+
+\---
+
+
+
+\## 👤 Auteur
+
+
+
+\*\*Nimrod NDOUDI\*\* 
+
+\[LinkedIn](https://www.linkedin.com/in/nimrod-ndoudi) · \[Portfolio](https://ndoudinimrod.github.io/)
+
+
+
+\*Copyright © NDOUDI Nimrod\*
+

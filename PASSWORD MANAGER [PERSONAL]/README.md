@@ -1,12 +1,88 @@
-PASSWORD MANAGER
+\# 🔑 Password Manager — Gestionnaire de mots de passe en C
 
-IN  C [PERSONAL]
 
-Ce programme consiste à obtenir un gestionnaire de mot de passe lié au compte ou site que vous possédez. Chaque mdp est ecrit dans un fichier DATA tandis que les sites un fichier mdp.
-Quelques ajustement semblent être à réaliser mais le gros du travail a été réalisé.
-Project in progresss....
 
-Vous pouvez utiliser ce programme, comme moi,  pour ne pas oublier vos mots de passes. 
-Une fonction de récupération à été crée en cas d'oublie mais est caché.Si vous n'arrivez pas à le voir, n'hésitez pas à me contacter !!! 
+> Gestionnaire de mots de passe en langage C avec stockage sécurisé sur fichiers
+
+
+
+\---
+
+
+
+\## 🇬🇧 Overview
+
+
+
+A \*\*password manager written in C\*\* that stores credentials (site/account + password) in separate data files.  
+
+Project in progress — core functionality implemented.
+
+
+
+\## 🇫🇷 Description
+
+
+
+Un \*\*gestionnaire de mots de passe développé en langage C\*\* permettant de stocker les identifiants (site/compte + mot de passe) dans des fichiers séparés.  
+
+Projet en cours — le cœur fonctionnel est réalisé.
+
+
+
+\---
+
+
+
+\## ⚙️ Fonctionnement
+
+
+
+\- Les \*\*mots de passe\*\* sont écrits dans un fichier `DATA`
+
+\- Les \*\*sites/comptes\*\* associés sont stockés dans un fichier `mdp`
+
+\- Liaison compte ↔ mot de passe
+
+
+
+\---
+
+
+
+\## 🛠️ Stack technique
+
+
+
+!\[C](https://img.shields.io/badge/C-00599C?style=flat\&logo=c\&logoColor=white)
+
+
+
+\---
+
+
+
+\## 🚧 Statut
+
+
+
+> ⚠️ \*\*Project in progress\*\* — Des ajustements sont encore à réaliser mais le gros du travail est effectué.
+
+
+
+\---
+
+
+
+\## 👤 Auteur
+
+
+
+\*\*Nimrod NDOUDI\*\* — \[LinkedIn](https://www.linkedin.com/in/nimrod-ndoudi) · \[Portfolio](https://ndoudinimrod.github.io/) · \\\[Email](nimrodndoudi@gmail.com)
+
+
+
+
 
 Copyright © by NDOUDI Nimrod ✌️✌️
+
