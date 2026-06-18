@@ -70,21 +70,21 @@ La plateforme évalue la maturité des contrôles informatiques, calcule les sco
 
 
 
-| Référentiel | Domaine |
+| Référentiel |             Domaine                 |
 
-|-------------|---------|
+|-------------|-------------------------------------|
 
-| ISO 27001 | Sécurité de l'information |
+| ISO 27001   | Sécurité de l'information           |
 
-| ISO 42001 | Intelligence artificielle |
+| ISO 42001   | Intelligence artificielle           |
 
-| NIS2 | Cybersécurité UE |
+|     NIS2    | Cybersécurité UE                    |
 
-| DORA | Résilience opérationnelle (Finance) |
+|     DORA    | Résilience opérationnelle (Finance) |
 
 
 
----
+-----------------------------------------------------
 
 
 
